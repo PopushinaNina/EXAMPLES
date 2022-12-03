@@ -1,0 +1,15 @@
+E:\Обучение\Praktika\Examples\Example001HelloConsole\bin\Debug\net7.0\Example001HelloConsole.exe
+E:\Обучение\Praktika\Examples\Example001HelloConsole\bin\Debug\net7.0\Example001HelloConsole.deps.json
+E:\Обучение\Praktika\Examples\Example001HelloConsole\bin\Debug\net7.0\Example001HelloConsole.runtimeconfig.json
+E:\Обучение\Praktika\Examples\Example001HelloConsole\bin\Debug\net7.0\Example001HelloConsole.dll
+E:\Обучение\Praktika\Examples\Example001HelloConsole\bin\Debug\net7.0\Example001HelloConsole.pdb
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.csproj.AssemblyReference.cache
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.AssemblyInfoInputs.cache
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.AssemblyInfo.cs
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.csproj.CoreCompileInputs.cache
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.dll
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\refint\Example001HelloConsole.dll
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.pdb
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\Example001HelloConsole.genruntimeconfig.cache
+E:\Обучение\Praktika\Examples\Example001HelloConsole\obj\Debug\net7.0\ref\Example001HelloConsole.dll
