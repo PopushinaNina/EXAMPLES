@@ -1,0 +1,15 @@
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.csproj.AssemblyReference.cache
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.AssemblyInfoInputs.cache
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.AssemblyInfo.cs
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+E:\Обучение\Praktika\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.exe
+E:\Обучение\Praktika\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.deps.json
+E:\Обучение\Praktika\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.runtimeconfig.json
+E:\Обучение\Praktika\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.dll
+E:\Обучение\Praktika\Examples\Example009_IntroArray\bin\Debug\net7.0\Example009_IntroArray.pdb
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.dll
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\refint\Example009_IntroArray.dll
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.pdb
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\Example009_IntroArray.genruntimeconfig.cache
+E:\Обучение\Praktika\Examples\Example009_IntroArray\obj\Debug\net7.0\ref\Example009_IntroArray.dll
