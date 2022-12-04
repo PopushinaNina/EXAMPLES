@@ -1,0 +1,15 @@
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.exe
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.deps.json
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.runtimeconfig.json
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.dll
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\bin\Debug\net7.0\Example008_IntroMethod.pdb
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.AssemblyInfo.cs
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.dll
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\refint\Example008_IntroMethod.dll
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.pdb
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\Example008_IntroMethod.genruntimeconfig.cache
+E:\Обучение\Praktika\Examples\Example008_IntroMethod\obj\Debug\net7.0\ref\Example008_IntroMethod.dll
