@@ -1,0 +1,15 @@
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.csproj.AssemblyReference.cache
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.AssemblyInfoInputs.cache
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.AssemblyInfo.cs
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.csproj.CoreCompileInputs.cache
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\bin\Debug\net7.0\Example013_RecursionAlgoritm.exe
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\bin\Debug\net7.0\Example013_RecursionAlgoritm.deps.json
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\bin\Debug\net7.0\Example013_RecursionAlgoritm.runtimeconfig.json
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\bin\Debug\net7.0\Example013_RecursionAlgoritm.dll
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\bin\Debug\net7.0\Example013_RecursionAlgoritm.pdb
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.dll
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\refint\Example013_RecursionAlgoritm.dll
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.pdb
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\Example013_RecursionAlgoritm.genruntimeconfig.cache
+E:\Обучение\Praktika\Examples\Example013_RecursionAlgoritm\obj\Debug\net7.0\ref\Example013_RecursionAlgoritm.dll
